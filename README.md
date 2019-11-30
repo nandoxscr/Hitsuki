@@ -23,3 +23,6 @@ You can also join official Haruka Aya support group [here!](https://t.me/HarukaA
 - Alisson - Helped clean up the code and countless other things!
 
 And much more that we couldn't list it here!
+
+
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
